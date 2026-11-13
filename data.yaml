@@ -1,0 +1,8 @@
+path: D:/VC/VC_P4/uc3m-lp # modificar
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names: ['License Plate']
